@@ -20,7 +20,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: AASHIK.A
 RegisterNumber: 25012808
 */
-
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
